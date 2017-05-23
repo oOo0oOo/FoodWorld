@@ -7,6 +7,8 @@ Food World uses a state machine to keep track of the complete conversation with 
 This also makes it quite easy to save and restore a session, since all information should be contained in the state machine. 
 Further, I tried to separate manipulation and rendering of the state. In general, if you are following the normal conversation the answer is rendered using reply() in dialog.py. Exceptions and other additional information is "rendered" and returned directly.
 
+The alexa/ folder contains the data used to setup the skill in the "store" (intents, utterances, logos and ingredients).
+
 #### Running this code
 
 This repository does **NOT** include the actual recipes file. This means you will have to provide your own recipes, which makes this tedious, sorry. I'm just not sure about the licensing & hope this is still useful as a reference.
