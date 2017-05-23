@@ -1,0 +1,130 @@
+NoIntent no
+NoIntent no i don't
+NoIntent nope
+NoIntent never
+NoIntent not really
+NoIntent not now
+NoIntent not today
+
+YesIntent yes
+YesIntent sure
+YesIntent why not
+YesIntent here we go
+YesIntent let's go
+YesIntent let's get started
+YesIntent let's cook
+YesIntent definitely
+YesIntent defo
+YesIntent yes i do
+
+NextIntent next
+NextIntent move on
+NextIntent let's move on
+NextIntent go on
+NextIntent i'm done
+NextIntent done
+NextIntent let's do the next step
+NextIntent let's move on to the next step
+
+PreviousIntent please go back
+PreviousIntent go back
+PreviousIntent go back to the last step
+PreviousIntent i want to go back
+PreviousIntent go back plase
+PreviousIntent back please
+PreviousIntent return to the previous
+PreviousIntent return to the previous please
+PreviousIntent return
+PreviousIntent return to the last step
+PreviousIntent return please
+PreviousIntent repeat the previous step
+PreviousIntent repeat the one before
+PreviousIntent rewind
+PreviousIntent please rewind
+
+RepeatIntent repeat
+RepeatIntent repeat step
+RepeatIntent repeat please
+RepeatIntent come again
+RepeatIntent repeat the last step
+RepeatIntent repeat the ingredients
+RepeatIntent repeat that
+RepeatIntent can you repeat that
+RepeatIntent can you repeat that please
+RepeatIntent can you repeat the last step please
+
+SearchIntent search
+SearchIntent search recipes
+SearchIntent search recipes please
+SearchIntent search please
+SearchIntent recipe search
+SearchIntent find recipes
+SearchIntent search for recipes
+SearchIntent lookup recipes
+SearchIntent check for recipes
+
+SearchIntent i want to search recipes
+SearchIntent i want to find recipes
+SearchIntent i want to search for recipes
+SearchIntent i would like to search recipes
+SearchIntent i would like to find recipes
+SearchIntent i would like to search for recipes
+
+SearchIntent look for recipes
+SearchIntent search recipes with my ingredients
+SearchIntent find recipes with my ingredients
+SearchIntent lookup recipes with my ingredients
+SearchIntent check for recipes with my ingredients
+AddIntent add {ingredient}
+AddIntent please add {ingredient}
+AddIntent i want to cook with {ingredient}
+AddIntent let's cook with {ingredient}
+AddIntent i want to use {ingredient}
+AddIntent i want cook with {ingredient}
+
+RemoveIntent remove {ingredient}
+RemoveIntent i would like to remove {ingredient}
+RemoveIntent i want to remove {ingredient}
+RemoveIntent please remove {ingredient}
+RemoveIntent let's remove {ingredient}
+
+ClarificationIntent how much {ingredient}
+ClarificationIntent how much {ingredient} is in the recipe
+ClarificationIntent how much {ingredient} do i need
+ClarificationIntent how much {ingredient} did i need
+ClarificationIntent how much {ingredient} do i need again
+ClarificationIntent how much {ingredient} did i need again
+ClarificationIntent how much of the {ingredient}
+ClarificationIntent how much of the {ingredient} do i need
+ClarificationIntent how much of the {ingredient} did i need
+ClarificationIntent how much of the {ingredient} do i need again
+ClarificationIntent how much of the {ingredient} did i need again
+ClarificationIntent how many {ingredient}
+ClarificationIntent how many {ingredient} are in the recipe
+ClarificationIntent how many {ingredient} do i need
+ClarificationIntent how many {ingredient} did i need
+ClarificationIntent how many {ingredient} do i need again
+ClarificationIntent how many {ingredient} did i need again
+ClarificationIntent which amount of {ingredient}
+ClarificationIntent what amount of {ingredient}
+ClarificationIntent which amount of {ingredient} do i need
+ClarificationIntent what amount of {ingredient} do i need
+ClarificationIntent which amount of {ingredient} is required
+ClarificationIntent what amount of {ingredient} is required
+ClarificationIntent what is the amount of {ingredient} that is required
+
+RestartIntent restart
+RestartIntent reset
+RestartIntent delete ingredients
+RestartIntent delete all ingredients
+RestartIntent stop this recipe
+RestartIntent i don't want to cook anymore
+RestartIntent i don't want to cook this anymore
+RestartIntent i don't want to cook this recipe anymore
+RestartIntent i want to reset this recipe
+RestartIntent i want to restart
+RestartIntent i want to reset
+RestartIntent i'm done with this recipe
+RestartIntent can i reset
+RestartIntent can i restart
+RestartIntent remove all ingredients

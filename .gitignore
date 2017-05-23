@@ -1,0 +1,7 @@
+*.sqlite
+*.pyc
+*.xcf
+
+data/
+venv/
+app/utils/recipes.pickle

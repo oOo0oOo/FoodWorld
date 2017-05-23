@@ -1,0 +1,61 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "NoIntent"
+    },
+    {
+      "intent": "YesIntent"
+    },
+    {
+      "intent": "NextIntent"
+    },
+    {
+      "intent": "PreviousIntent"
+    },
+    {
+      "intent": "RepeatIntent"
+    },
+    {
+      "intent": "SearchIntent"
+    },
+    {
+      "intent": "RestartIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "ingredient",
+          "type": "INGREDIENTS_TYPE"
+        }
+      ],
+      "intent": "RemoveIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "ingredient",
+          "type": "INGREDIENTS_TYPE"
+        }
+      ],
+      "intent": "AddIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "ingredient",
+          "type": "INGREDIENTS_TYPE"
+        }
+      ],
+      "intent": "ClarificationIntent"
+    }
+  ]
+}
