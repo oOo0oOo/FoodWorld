@@ -16,7 +16,7 @@ The approx 25k recipes are scraped and cleaned from [recipes.wikia.com](recipes.
 
 If you can provide your own recipes, install all the modules required (best in a venv):
 
-`pip install flask flask_ask flask_sqlalchemy inflect`
+`pip install flask flask_ask flask_sqlalchemy flask_script inflect`
 
 Then create a new DB using:
 
